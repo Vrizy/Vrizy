@@ -2,7 +2,7 @@
 
 # Hello!
 
-My name is Vicky Rizky Fauzy, currently student at Binar Academy as Android Engineer (Kotlin).
+My name is Vicky Rizky Fauzy, i'm a Android Engineer(Kotlin).
 
 ![Vrizy's github stats](https://github-readme-stats.vercel.app/api?username=vrizy&show_icons=true&line_height=21&show_icons=true&theme=nord)
 <span style="display:inline-block; width: 10px;"></span>
