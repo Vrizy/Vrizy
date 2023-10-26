@@ -14,8 +14,8 @@ My name is Vicky Rizky Fauzy, i'm a Android Engineer(Kotlin).
 
 <!-- ![Vrizy's blog](https://github-read-medium.vercel.app/latest?username=vrizy&limit=6&theme=nord) -->
 
-## Get in Touch
+## My Contact
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
-- Email : [vickyrizkyfauzy@gmail.com](mailto:alzaichsank@gmail.com)
+- Email : [vickyrizkyfauzy@gmail.com](mailto:vickyrizkyfauzy@gmail.com)
 - LinkedIn : [Vicky Rizky Fauzy](https://www.linkedin.com/in/vickyrizkyfauzy/)
 
