@@ -2,7 +2,7 @@
 
 # Hello!
 
-My name is Vicky Rizky Fauzy, i'm a Android Engineer(Kotlin).
+My name is Vicky Rizky Fauzy, i'm a 3D Designer.
 
 ![Vrizy's github stats](https://github-readme-stats.vercel.app/api?username=vrizy&show_icons=true&line_height=21&show_icons=true&theme=nord)
 <span style="display:inline-block; width: 10px;"></span>
