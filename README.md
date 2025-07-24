@@ -10,7 +10,7 @@ My name is Vicky Rizky Fauzy, i'm a Android Engineer(Kotlin).
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vrizy&layout=compact&theme=nord"/>
+
 
 <!-- ![Vrizy's blog](https://github-read-medium.vercel.app/latest?username=vrizy&limit=6&theme=nord) -->
 
