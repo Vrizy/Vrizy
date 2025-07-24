@@ -8,7 +8,7 @@ My name is Vicky Rizky Fauzy, i'm a Android Engineer(Kotlin).
 <span style="display:inline-block; width: 10px;"></span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrizy&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true)
 
-![Vrizy's trophy](https://github-profile-trophy.vercel.app/?username=vrizy&theme=nord&column=7&margin-w=10&margin-h=15)
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrizy&layout=compact&theme=nord"/>
 
